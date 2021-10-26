@@ -7,7 +7,7 @@ Learn to use Camera plugin using Capacitor at https://youtu.be/u2szpkj4LhI
 
 Learn to build Instagram CLone App: https://www.youtube.com/playlist?list=PLixvNT19uDK7tFopqRcm8iTPKNc69VGwl
 
-<img src="https://github.com/Nykz/IonicCameraCordova/blob/main/Snapshot_1.png" width="1000" height="400" />
+<img src="https://github.com/Nykz/IonicCameraCordova/blob/main/Snapshot_1.png" width="1000" height="600" />
 
 ### Steps to Setup this Instagram Clone App in your system
 
